@@ -68,11 +68,14 @@ This makes the system transparent and interpretable.
 ---
 
 ## 📸 Screenshots
-
-See the `/screenshots` folder for:
 - Neo4j graph visualization
+- <img width="2353" height="1014" alt="neo4j_graph" src="https://github.com/user-attachments/assets/cc2c7b78-291f-4f2b-b838-22becd97753d" />
 - Recommendation query output
+- <img width="1188" height="1195" alt="recommendation_graph" src="https://github.com/user-attachments/assets/cb7c0e0a-d417-4325-a7e5-a5720ee8d6d0" />
+- <img width="1050" height="328" alt="image" src="https://github.com/user-attachments/assets/329a0fa7-2ee9-4668-b222-28ba6716e145" />
 - Spark SQL Web UI with execution plan
+- <img width="2047" height="1225" alt="spark_sql_ui" src="https://github.com/user-attachments/assets/e2715f3b-4d13-4ec8-8d40-ca8cde16d012" />
+
 
 ---
 
